@@ -97,7 +97,7 @@
 
 ## 🐍 Contribution Snake (Animated)
 <p align="center">
-  <img src="https://github.com/saliha10/saliha10/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/saliha10/saliha10/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
