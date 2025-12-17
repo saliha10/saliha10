@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <linearGradient id="overlay" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#000814" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#001d3d" stop-opacity="0.55"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+
+    <style>
+      .title { font: 800 44px/1.2 "Segoe UI", Arial, sans-serif; fill: #ffffff; }
+      .sub   { font: 700 22px/1.4 "Segoe UI", Arial, sans-serif; fill: #ffffff; opacity: 0.95; }
+      .line  { font: 700 22px/1.6 "Segoe UI", Arial, sans-serif; fill: #ffffff; }
+      .muted { font: 700 20px/1.5 "Segoe UI", Arial, sans-serif; fill: #e6f6ff; opacity: 0.95; }
+      .tag   { font: 800 18px/1 "Segoe UI", Arial, sans-serif; fill:#0b1220; }
+    </style>
+  </defs>
+
+  <!-- ✅ BACKGROUND IMAGE -->
+  <!-- Replace this URL with your preferred background (must be direct .gif/.png/.jpg/.webp) -->
+  <image href="BACKGROUND_URL" x="0" y="0" width="1200" height="360" preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Dark overlay for readability -->
+  <rect x="0" y="0" width="1200" height="360" fill="url(#overlay)"/>
+
+  <!-- Card -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="36" rx="24" ry="24" width="1120" height="288" fill="rgba(255,255,255,0.10)" stroke="rgba(255,255,255,0.18)"/>
+  </g>
+
+  <!-- Header -->
+  <text x="80" y="105" class="title">👩‍💻 About Me</text>
+  <text x="80" y="145" class="sub">I’m <tspan font-weight="900">Saliha Kazmi</tspan> — Laravel Developer • Python & Data Science • Academic Writer</text>
+
+  <!-- Lines -->
+  <text x="80" y="200" class="line">🚀 Laravel Developer — scalable modules, RBAC, clean CRUD, optimized queries</text>
+  <text x="80" y="240" class="line">🐍 Python & Data Science — automation, analytics, reporting, experimentation</text>
+  <text x="80" y="280" class="line">🗄️ Database Engineering — schema design, migrations, indexing, performance tuning</text>
+  <text x="80" y="320" class="line">📚 Academic Writer — thesis, research papers, literature review, methodology</text>
+</svg>
