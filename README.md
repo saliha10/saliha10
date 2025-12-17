@@ -25,7 +25,7 @@
 
 ---
 
-## 👩‍💻 About Me (Professional)
+## 👩‍💻 About Me
 I’m **Saliha Kazmi** — I blend **production-grade backend development** with **research-driven academic writing**.
 
 ✨ **Core Focus**
@@ -36,7 +36,7 @@ I’m **Saliha Kazmi** — I blend **production-grade backend development** with
 
 ---
 
-## 🧰 Tech Stack (Always shows properly)
+## 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,python,mysql,js,git&perline=6" alt="Tech Stack" />
 </p>
@@ -51,7 +51,7 @@ I’m **Saliha Kazmi** — I blend **production-grade backend development** with
 
 ---
 
-## 📊 GitHub Analytics (Auto) — Clean Layout
+## 📊 GitHub Analytics
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=saliha10&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saliha10&layout=compact&hide_border=true" alt="Top Languages" />
@@ -62,7 +62,7 @@ I’m **Saliha Kazmi** — I blend **production-grade backend development** with
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saliha10&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saliha10&hide_border=true&radius=10" alt="Activity Graph" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ I’m **Saliha Kazmi** — I blend **production-grade backend development** with
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+## 🐍 Contribution Snake
 > Note: This appears after your workflow successfully creates the `output` branch.
 
 <p align="center">
@@ -92,9 +92,14 @@ I’m **Saliha Kazmi** — I blend **production-grade backend development** with
 <p align="center">
   <img height="70" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Cute Cat" />
   <img height="70" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Cute Dog" />
-  <img height="70" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Cute Bunny" />
+<img height="70" src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" alt="Horses Running" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/216657008-2c3d6d6b-7f4b-4a87-9c35-9dcb9b1d52d4.gif" 
+    alt="Ocean animation with fish and waves"
+    width="100%"
+  />
 </p>
+
