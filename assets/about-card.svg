@@ -57,7 +57,7 @@
   </g>
 
   <text x="85" y="105" class="title">👩‍💻 About Me</text>
-  <text x="85" y="145" class="sub">Saliha Kazmi<tspan font-weight="900">here!</tspan> — Laravel • Python/Data • Academic Writer</text>
+  <text x="85" y="145" class="sub">Saliha Kazmi  <tspan font-weight="900">here!</tspan> — Laravel • Python/Data • Academic Writer</text>
 
   <text x="85" y="205" class="line">🚀 Laravel Developer — scalable modules, RBAC, clean CRUD, optimized queries</text>
   <text x="85" y="245" class="line">🐍 Python &amp; Data Science — automation, analytics, reporting, experimentation</text>
