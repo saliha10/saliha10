@@ -90,15 +90,15 @@ I’m **Saliha Kazmi** — I blend **production-grade backend development** with
 ======================= -->
 
 <p align="center">
-  <img height="70" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Cute Cat" />
-  <img height="70" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Cute Dog" />
-<img height="70" src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" alt="Horses Running" />
+  <img height="70" src="https://user-images.githubusercontent.com/74038190/212749447-6b2f7a7b-4f34-4a33-8a62-5f0c8c8c8e8c.gif" alt="Developer Working" />
+  <img height="70" src="https://user-images.githubusercontent.com/74038190/212749505-9a4f0b5c-1d5a-4c3b-9c7a-3b7a0f7c9a4f.gif" alt="Office Work Environment" />
+<img height="70" src="https://user-images.githubusercontent.com/74038190/212749587-3f9c0a7b-4c8e-4d0c-8c9b-5f2e8c9a7d3f.gif" alt="Focused Coding" />
 </p>
 
 <p align="center">
   <img 
-    src="https://user-images.githubusercontent.com/74038190/216657008-2c3d6d6b-7f4b-4a87-9c35-9dcb9b1d52d4.gif" 
-    alt="Ocean animation with fish and waves"
+    src="https://media.giphy.com/media/xT0GqeSlGSRQut4J1K/giphy.gif"
+    alt="Underwater fish animation"
     width="100%"
   />
 </p>
