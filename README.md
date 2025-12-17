@@ -20,7 +20,7 @@
 
 ---
 
-## 👩‍💻 About Me (Text on Banner)
+## 👩‍💻 About Me
 <p align="center">
   <img src="https://raw.githubusercontent.com/saliha10/saliha10/main/assets/about-card.svg" width="100%" alt="About Banner" />
 </p>
@@ -56,7 +56,7 @@
 
 ---
 
-## 🧠 Academic Writing (Text on Banner)
+## 🧠 Academic Writing
 <p align="center">
   <img src="https://raw.githubusercontent.com/saliha10/saliha10/main/assets/academic-card.svg" width="100%" alt="Academic Banner" />
 </p>
