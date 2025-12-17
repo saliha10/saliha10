@@ -97,10 +97,11 @@ I’m **Saliha Kazmi** — I blend **production-grade backend development** with
 
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif"
-    alt="Animated water surface"
+    src="https://media.giphy.com/media/26BRGoqbUQvk8nwTC/giphy.gif"
+    alt="Ocean waves animation"
     width="100%"
   />
 </p>
+
 
 
