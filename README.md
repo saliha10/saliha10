@@ -24,21 +24,10 @@
 
 ---
 
-## 👩‍💻 About Me
-
-<!-- BACKGROUND BANNER -->
+## 👩‍💻 About Me (Text on Banner)
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRGoqbUQvk8nwTC/giphy.gif" width="100%" />
+  <img src="assets/about-card.svg" width="100%" />
 </p>
-
-> **I’m Saliha Kazmi** — a professional who blends  
-> **production-grade backend development** with  
-> **research-driven academic writing**.
-
-> 🚀 **Laravel Developer** — scalable modules, RBAC, clean CRUD, optimized queries  
-> 🐍 **Python & Data Science** — automation, analytics, reporting, experimentation  
-> 🗄️ **Database Engineering** — schema design, migrations, indexing, performance tuning  
-> 📚 **Academic Writer** — Thesis, Research Papers, Literature Review, Methodology
 
 ---
 
@@ -51,8 +40,8 @@
 
 ## 🚀 What I Deliver
 ✅ Secure authentication & role-based access (RBAC)  
-✅ Performance-first backend systems  
-✅ Research & data analysis with reproducible insights  
+✅ Performance-first backend systems (indexes, query optimization)  
+✅ Research & data analysis (Python) with reproducible insights  
 ✅ Clean documentation & maintainable architecture  
 
 ---
@@ -73,17 +62,10 @@
 
 ---
 
-## 🧠 Academic Writing (Thesis & Research)
-
-<!-- BACKGROUND BANNER -->
+## 🧠 Academic Writing (Text on Banner)
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRGoqbUQvk8nwTC/giphy.gif" width="100%" />
+  <img src="assets/academic-card.svg" width="100%" />
 </p>
-
-> 📝 **Thesis Writing** — proposal → methodology → analysis → final dissertation  
-> 📄 **Research Papers** — IEEE / Elsevier / Springer structure  
-> 🔎 **Literature Review** — gap identification & critical analysis  
-> 📈 **Data Interpretation** — Python-based results & discussion  
 
 ---
 
@@ -95,7 +77,7 @@
 ---
 
 <!-- =======================
-      PROFESSIONAL FOOTER
+      PROFESSIONAL FOOTER (WORK MODE)
 ======================= -->
 
 <p align="center">
