@@ -1,7 +1,3 @@
-<!-- =======================
-      PREMIUM ANIMATED HEADER
-======================= -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Saliha%20Kazmi&fontSize=52&fontAlignY=35&color=gradient&desc=Laravel%20%7C%20Python%20%7C%20Academic%20Writer&descAlignY=68" />
 </p>
@@ -26,7 +22,7 @@
 
 ## 👩‍💻 About Me (Text on Banner)
 <p align="center">
-  <img src="assets/about-card.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/saliha10/saliha10/main/assets/about-card.svg" width="100%" alt="About Banner" />
 </p>
 
 ---
@@ -64,7 +60,7 @@
 
 ## 🧠 Academic Writing (Text on Banner)
 <p align="center">
-  <img src="assets/academic-card.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/saliha10/saliha10/main/assets/academic-card.svg" width="100%" alt="Academic Banner" />
 </p>
 
 ---
@@ -75,10 +71,6 @@
 </p>
 
 ---
-
-<!-- =======================
-      PROFESSIONAL FOOTER (WORK MODE)
-======================= -->
 
 <p align="center">
   <img height="70" src="https://user-images.githubusercontent.com/74038190/212749447-6b2f7a7b-4f34-4a33-8a62-5f0c8c8c8e8c.gif" />
